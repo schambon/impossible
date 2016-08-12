@@ -1,0 +1,7 @@
+build
+*.txt
+*.png
+runtime
+
+.idea
+.gradle
